@@ -1,5 +1,4 @@
 # 💫 About Me:
-# 💫 About Me:
 I am a **Full Stack Developer** from **Zone01 Oujda**.
 - 🔭 I’m currently finalizing **01Blog** (Spring Boot & Angular).
 - 🌱 I’m currently working with **Java** to build a **Local Server** project.
